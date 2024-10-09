@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "zxfjbkGaNO0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KINDYEAR\\Desktop\\WF\\UnpackMiColorFace-Available\\Available\\UnpackMiColorFace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KINDYEAR\\.nuget\\packages\\magick.net-q16-anycpu\\14.0.0\\magick.net-q16-anycpu.14.0.0.nupkg.sha512",
+    "C:\\Users\\KINDYEAR\\.nuget\\packages\\magick.net.core\\14.0.0\\magick.net.core.14.0.0.nupkg.sha512",
+    "C:\\Users\\KINDYEAR\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\KINDYEAR\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "C:\\Users\\KINDYEAR\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\KINDYEAR\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.10\\microsoft.netcore.app.runtime.linux-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\KINDYEAR\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.10\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\KINDYEAR\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.10\\microsoft.netcore.app.host.linux-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
